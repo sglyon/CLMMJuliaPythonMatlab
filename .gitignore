@@ -2,3 +2,5 @@
 __pycache__/
 *.mat
 .ipynb_checkpoints/
+Growth/notebooks/Project.toml
+Growth/notebooks/Manifest.toml
