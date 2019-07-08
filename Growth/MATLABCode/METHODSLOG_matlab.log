@@ -1,0 +1,142 @@
+Beginning execution with method 1
+Method = 1:
+ACCURACY EVALUATION AND RUNNING TIME:
+
+Polynomial of degree = 2:
+Running time = 0.32, Mean residuals = -3.83, Max residuals = -2.76
+
+Polynomial of degree = 3:
+Running time = 0.21, Mean residuals = -4.97, Max residuals = -3.32
+
+Polynomial of degree = 4:
+Running time = 0.22, Mean residuals = -6.06, Max residuals = -4.03
+
+Polynomial of degree = 5:
+Running time = 0.10, Mean residuals = -7.00, Max residuals = -4.70
+
+
+
+
+
+
+Beginning execution with method 2
+Method = 2:
+ACCURACY EVALUATION AND RUNNING TIME:
+
+Polynomial of degree = 2:
+Running time = 30.94, Mean residuals = -3.83, Max residuals = -2.76
+
+Polynomial of degree = 3:
+Running time = 20.85, Mean residuals = -4.97, Max residuals = -3.32
+
+Polynomial of degree = 4:
+Running time = 18.02, Mean residuals = -6.06, Max residuals = -4.03
+
+Polynomial of degree = 5:
+Running time = 13.80, Mean residuals = -7.00, Max residuals = -4.70
+
+
+
+
+
+
+Beginning execution with method 3
+Method = 3:
+ACCURACY EVALUATION AND RUNNING TIME:
+
+Polynomial of degree = 2:
+Running time = 27.19, Mean residuals = -3.81, Max residuals = -2.76
+
+Polynomial of degree = 3:
+Running time = 18.51, Mean residuals = -4.95, Max residuals = -3.34
+
+Polynomial of degree = 4:
+Running time = 13.95, Mean residuals = -6.06, Max residuals = -4.05
+
+Polynomial of degree = 5:
+Running time = 10.43, Mean residuals = -7.04, Max residuals = -4.73
+
+
+
+
+
+
+Beginning execution with method 4
+Method = 4:
+ACCURACY EVALUATION AND RUNNING TIME:
+
+Polynomial of degree = 2:
+Running time = 0.30, Mean residuals = -3.82, Max residuals = -2.75
+
+Polynomial of degree = 3:
+Running time = 0.17, Mean residuals = -4.96, Max residuals = -3.30
+
+Polynomial of degree = 4:
+Running time = 0.22, Mean residuals = -6.04, Max residuals = -4.01
+
+Polynomial of degree = 5:
+Running time = 0.11, Mean residuals = -6.98, Max residuals = -4.69
+
+
+
+
+
+
+Beginning execution with method 5
+Method = 5:
+ACCURACY EVALUATION AND RUNNING TIME:
+
+Polynomial of degree = 2:
+Running time = 20.32, Mean residuals = -3.83, Max residuals = -2.76
+
+Polynomial of degree = 3:
+Running time = 16.49, Mean residuals = -4.97, Max residuals = -3.32
+
+Polynomial of degree = 4:
+Running time = 17.73, Mean residuals = -6.06, Max residuals = -4.03
+
+Polynomial of degree = 5:
+Running time = 13.46, Mean residuals = -7.00, Max residuals = -4.70
+
+
+
+
+
+
+Beginning execution with method 6
+Method = 6:
+ACCURACY EVALUATION AND RUNNING TIME:
+
+Polynomial of degree = 2:
+Running time = 0.57, Mean residuals = -3.83, Max residuals = -2.76
+
+Polynomial of degree = 3:
+Running time = 0.70, Mean residuals = -4.97, Max residuals = -3.32
+
+Polynomial of degree = 4:
+Running time = 0.69, Mean residuals = -6.06, Max residuals = -4.03
+
+Polynomial of degree = 5:
+Running time = 0.74, Mean residuals = -7.00, Max residuals = -4.70
+
+
+
+
+
+
+Beginning execution with method 7
+Method = 7:
+ACCURACY EVALUATION AND RUNNING TIME:
+
+Polynomial of degree = 2:
+Running time = 0.38, Mean residuals = -3.82, Max residuals = -2.75
+
+Polynomial of degree = 3:
+Running time = 0.29, Mean residuals = -4.97, Max residuals = -3.32
+
+Polynomial of degree = 4:
+Running time = 0.25, Mean residuals = -6.06, Max residuals = -4.03
+
+Polynomial of degree = 5:
+Running time = 0.11, Mean residuals = -7.00, Max residuals = -4.70
+

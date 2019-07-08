@@ -1,0 +1,63 @@
+Solution Method: VFI_ECM()
+	Degree 2 took time 0.38216090202331543
+	Mean & Max EE are: -3.828 & -2.762
+	Degree 3 took time 0.22013306617736816
+	Mean & Max EE are: -4.975 & -3.322
+	Degree 4 took time 0.2737159729003906
+	Mean & Max EE are: -6.061 & -4.026
+	Degree 5 took time 0.1530909538269043
+	Mean & Max EE are: -7.0 & -4.703
+Solution Method: VFI()
+	Degree 2 took time 1.2281649112701416
+	Mean & Max EE are: -3.828 & -2.762
+	Degree 3 took time 1.1185979843139648
+	Mean & Max EE are: -4.975 & -3.322
+	Degree 4 took time 1.226891040802002
+	Mean & Max EE are: -6.061 & -4.026
+	Degree 5 took time 1.1349461078643799
+	Mean & Max EE are: -7.0 & -4.703
+Solution Method: VFI_EGM()
+	Degree 2 took time 0.5173358917236328
+	Mean & Max EE are: -3.828 & -2.762
+	Degree 3 took time 0.30425214767456055
+	Mean & Max EE are: -4.975 & -3.322
+	Degree 4 took time 0.3668498992919922
+	Mean & Max EE are: -6.06 & -4.026
+	Degree 5 took time 0.2381148338317871
+	Mean & Max EE are: -7.0 & -4.703
+Solution Method: PFI()
+	Degree 2 took time 0.33032798767089844
+	Mean & Max EE are: -3.828 & -2.762
+	Degree 3 took time 0.9238791465759277
+	Mean & Max EE are: -4.975 & -3.322
+	Degree 4 took time 1.3217060565948486
+	Mean & Max EE are: -6.061 & -4.026
+	Degree 5 took time 1.12288498878479
+	Mean & Max EE are: -7.0 & -4.703
+Solution Method: PFI_ECM()
+	Degree 2 took time 0.3031280040740967
+	Mean & Max EE are: -3.828 & -2.762
+	Degree 3 took time 0.22045588493347168
+	Mean & Max EE are: -4.975 & -3.322
+	Degree 4 took time 0.2706451416015625
+	Mean & Max EE are: -6.061 & -4.026
+	Degree 5 took time 0.16962695121765137
+	Mean & Max EE are: -7.0 & -4.703
+Solution Method: EulEq()
+	Degree 2 took time 0.3778090476989746
+	Mean & Max EE are: -3.828 & -2.762
+	Degree 3 took time 0.27986598014831543
+	Mean & Max EE are: -4.975 & -3.322
+	Degree 4 took time 0.3210740089416504
+	Mean & Max EE are: -6.061 & -4.026
+	Degree 5 took time 0.1993241310119629
+	Mean & Max EE are: -7.0 & -4.703
+Solution Method: dVFI_ECM()
+	Degree 2 took time 0.6423108577728271
+	Mean & Max EE are: -3.828 & -2.763
+	Degree 3 took time 0.7955849170684814
+	Mean & Max EE are: -4.974 & -3.322
+	Degree 4 took time 0.9497129917144775
+	Mean & Max EE are: -6.06 & -4.026
+	Degree 5 took time 1.1129281520843506
+	Mean & Max EE are: -7.0 & -4.703
