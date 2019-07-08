@@ -6,13 +6,19 @@ MATLAB, Python and Julia codes for a stylized new Keynesian model
 
 ### Python
 
-To get up and running with the python version of the code you should follow
-these steps:
+In order to run the codes in this file you will need to install and
+configure a few Python packages. We recommend following the instructions
+on
+[quantecon.org](https://lectures.quantecon.org/jl/getting_started.html)
+for getting a base python installation set up. Then to acquire
+additional packages used for this project, please run the following commands
+at your terminal or command line prompt:
 
-- Download and install the [Anaconda python distribution](https://www.continuum.io/downloads) for python 3.5 (NOTE: python 2.x will not work). A download link and installation directions can be found at the linked website
-- Download and install the `dolo` python package using the command `pip install dolo`.
-
-The suggested way to run the python code is:
+```shell
+pip install git+https://github.com/EconForge/interpolation.py.git
+pip install git+https://github.com/naught101/sobol_seq.git
+pip install requests
+```
 
 1. Start `ipython`  in the python directory of this repository. To do this navigate your command prompt or terminal shell to the python folder and run the commadn `ipython`.
 2. Once inside IPython run the following commands: `run main`
