@@ -1,0 +1,4 @@
+# python
+__pycache__/
+*.mat
+.ipynb_checkpoints/
