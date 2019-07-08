@@ -11,3 +11,6 @@ QuantEcon = "fcd29c91-0bd7-5a09-975d-7ac3f643a60c"
 Random = "9a3f8284-a2c9-5f02-9a11-845980a1fd5c"
 Sobol = "ed01d8cd-4d21-5b2a-85b4-cc3bdc58bad4"
 Statistics = "10745b16-79ce-11e8-11f9-7d13ad32a3b2"
+
+[compat]
+QuantEcon = ">= 0.16.1"
