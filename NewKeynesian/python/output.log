@@ -1,0 +1,270 @@
+starting πstar=1.0 and degree=1 zlb=False
+Solver time (in seconds):  0.5201988220214844
+Simulation time (in seconds):  0.26827001571655273
+Residuals time (in seconds):  0.9051609039306641
+Total time (in seconds):  1.6936297416687012
+
+APPROXIMATION ERRORS (log10):
+	a) mean error in the model equations: -3.119
+	b) max error in the model equations: -1.733
+	c) max error by equation:  [ -1.73252513  -2.38476065  -2.38686697 -14.91713459 -16.
+ -15.49208397 -15.49208397 -16.         -16.        ]
+tex row: -3.12 & -1.73 & 0.52
+
+
+
+
+
+
+starting πstar=1.0 and degree=2 zlb=False
+Solver time (in seconds):  0.9278619289398193
+Simulation time (in seconds):  0.26740002632141113
+Residuals time (in seconds):  0.9403519630432129
+Total time (in seconds):  2.1356139183044434
+
+APPROXIMATION ERRORS (log10):
+	a) mean error in the model equations: -4.405
+	b) max error in the model equations: -2.772
+	c) max error by equation:  [ -2.77230487  -3.32691816  -3.36952215 -14.95892299 -16.
+ -15.49208397 -15.49208397 -16.         -16.        ]
+tex row: -4.40 & -2.77 & 0.93
+
+
+
+
+
+
+starting πstar=1.0 and degree=3 zlb=False
+Solver time (in seconds):  2.942747116088867
+Simulation time (in seconds):  0.2770881652832031
+Residuals time (in seconds):  1.1911160945892334
+Total time (in seconds):  4.410951375961304
+
+APPROXIMATION ERRORS (log10):
+	a) mean error in the model equations: -5.708
+	b) max error in the model equations: -3.544
+	c) max error by equation:  [ -3.54444559  -4.70883437  -4.22667031 -14.95892299 -16.
+ -15.49208397 -15.49208397 -16.         -16.        ]
+tex row: -5.71 & -3.54 & 2.94
+
+
+
+
+
+
+starting πstar=1.0 and degree=4 zlb=False
+Solver time (in seconds):  23.671579837799072
+Simulation time (in seconds):  0.34184718132019043
+Residuals time (in seconds):  1.7763571739196777
+Total time (in seconds):  25.78978419303894
+
+APPROXIMATION ERRORS (log10):
+	a) mean error in the model equations: -6.825
+	b) max error in the model equations: -4.890
+	c) max error by equation:  [ -4.92606336  -4.88987477  -5.51110795 -14.95892299 -16.
+ -15.49208397 -15.49208397 -16.         -16.        ]
+tex row: -6.82 & -4.89 & 23.67
+
+
+
+
+
+
+starting πstar=1.0 and degree=5 zlb=False
+Solver time (in seconds):  675.918319940567
+Simulation time (in seconds):  0.3495180606842041
+Residuals time (in seconds):  2.16795015335083
+Total time (in seconds):  678.435788154602
+
+APPROXIMATION ERRORS (log10):
+	a) mean error in the model equations: -7.002
+	b) max error in the model equations: -5.142
+	c) max error by equation:  [ -5.14235589  -5.52539318  -5.83995047 -14.91713459 -16.
+ -15.49208397 -15.49208397 -16.         -16.        ]
+tex row: -7.00 & -5.14 & 675.92
+
+
+
+
+
+
+starting πstar=1 and degree=1 zlb=True
+Solver time (in seconds):  0.5373778343200684
+Simulation time (in seconds):  0.30197882652282715
+Residuals time (in seconds):  0.914963960647583
+Total time (in seconds):  1.7543206214904785
+
+APPROXIMATION ERRORS (log10):
+	a) mean error in the model equations: -3.119
+	b) max error in the model equations: -1.733
+	c) max error by equation:  [ -1.73252525  -2.38476144  -2.38686746 -14.91713459 -16.
+ -15.49208397 -15.49208397 -16.         -16.        ]
+tex row: -3.12 & -1.73 & 0.54
+
+
+
+
+
+
+starting πstar=1 and degree=2 zlb=True
+Solver time (in seconds):  0.9488010406494141
+Simulation time (in seconds):  0.29158592224121094
+Residuals time (in seconds):  0.9488949775695801
+Total time (in seconds):  2.189281940460205
+
+APPROXIMATION ERRORS (log10):
+	a) mean error in the model equations: -4.399
+	b) max error in the model equations: -2.165
+	c) max error by equation:  [ -2.16479565  -2.45217177  -2.35488109 -14.91713459 -16.
+ -15.49208397 -15.49208397 -16.         -16.        ]
+tex row: -4.40 & -2.16 & 0.95
+
+
+
+
+
+
+starting πstar=1 and degree=3 zlb=True
+Solver time (in seconds):  2.9690229892730713
+Simulation time (in seconds):  0.27730798721313477
+Residuals time (in seconds):  1.2096009254455566
+Total time (in seconds):  4.455931901931763
+
+APPROXIMATION ERRORS (log10):
+	a) mean error in the model equations: -5.605
+	b) max error in the model equations: -2.149
+	c) max error by equation:  [ -2.14864877  -2.43771407  -2.34062744 -14.91713459 -16.
+ -15.49208397 -15.49208397 -16.         -16.        ]
+tex row: -5.60 & -2.15 & 2.97
+
+
+
+
+
+
+starting πstar=1 and degree=4 zlb=True
+Solver time (in seconds):  24.693281173706055
+Simulation time (in seconds):  0.3102872371673584
+Residuals time (in seconds):  1.6393659114837646
+Total time (in seconds):  26.642934322357178
+
+APPROXIMATION ERRORS (log10):
+	a) mean error in the model equations: -6.170
+	b) max error in the model equations: -2.154
+	c) max error by equation:  [ -2.15397228  -2.43618442  -2.34105943 -14.91713459 -16.
+ -15.49208397 -15.49208397 -16.         -16.        ]
+tex row: -6.17 & -2.15 & 24.69
+
+
+
+
+
+
+starting πstar=1 and degree=5 zlb=True
+Solver time (in seconds):  635.5772993564606
+Simulation time (in seconds):  0.3239707946777344
+Residuals time (in seconds):  2.031848192214966
+Total time (in seconds):  637.9331183433533
+
+APPROXIMATION ERRORS (log10):
+	a) mean error in the model equations: -6.203
+	b) max error in the model equations: -2.154
+	c) max error by equation:  [ -2.15413995  -2.43658238  -2.34111249 -14.95892299 -16.
+ -15.49208397 -15.49208397 -16.         -16.        ]
+tex row: -6.20 & -2.15 & 635.58
+
+
+
+
+
+
+starting πstar=1.01495 and degree=1 zlb=False
+Solver time (in seconds):  1.037682294845581
+Simulation time (in seconds):  0.27416110038757324
+Residuals time (in seconds):  0.9399328231811523
+Total time (in seconds):  2.2517762184143066
+
+APPROXIMATION ERRORS (log10):
+	a) mean error in the model equations: -3.124
+	b) max error in the model equations: -1.938
+	c) max error by equation:  [ -1.93842674  -2.66859344  -2.69048418 -14.78138252 -16.
+ -15.49208397 -15.49208397 -16.          -2.48982523]
+tex row: -3.12 & -1.94 & 1.04
+
+
+
+
+
+
+starting πstar=1.01495 and degree=2 zlb=False
+Solver time (in seconds):  2.165523052215576
+Simulation time (in seconds):  0.2658379077911377
+Residuals time (in seconds):  0.9280502796173096
+Total time (in seconds):  3.3594112396240234
+
+APPROXIMATION ERRORS (log10):
+	a) mean error in the model equations: -3.421
+	b) max error in the model equations: -2.490
+	c) max error by equation:  [ -3.12903031  -3.6962834   -3.74824426 -14.84397582 -16.
+ -15.49208397 -15.49208397 -16.          -2.48982523]
+tex row: -3.42 & -2.49 & 2.17
+
+
+
+
+
+
+starting πstar=1.01495 and degree=3 zlb=False
+Solver time (in seconds):  6.9865217208862305
+Simulation time (in seconds):  0.264909029006958
+Residuals time (in seconds):  1.1607601642608643
+Total time (in seconds):  8.412190914154053
+
+APPROXIMATION ERRORS (log10):
+	a) mean error in the model equations: -3.443
+	b) max error in the model equations: -2.490
+	c) max error by equation:  [ -4.40629541  -4.24546467  -4.84245008 -14.78138252 -16.
+ -15.49208397 -15.49208397 -16.          -2.48982523]
+tex row: -3.44 & -2.49 & 6.99
+
+
+
+
+
+
+starting πstar=1.01495 and degree=4 zlb=False
+Solver time (in seconds):  58.06723403930664
+Simulation time (in seconds):  0.3329911231994629
+Residuals time (in seconds):  1.636301040649414
+Total time (in seconds):  60.03652620315552
+
+APPROXIMATION ERRORS (log10):
+	a) mean error in the model equations: -3.444
+	b) max error in the model equations: -2.490
+	c) max error by equation:  [ -4.64646793  -5.20036625  -5.39056799 -14.78138252 -16.
+ -15.49208397 -15.49208397 -16.          -2.48982523]
+tex row: -3.44 & -2.49 & 58.07
+
+
+
+
+
+
+starting πstar=1.01495 and degree=5 zlb=False
+Solver time (in seconds):  1496.6007099151611
+Simulation time (in seconds):  0.310837984085083
+Residuals time (in seconds):  2.053201913833618
+Total time (in seconds):  1498.9647498130798
+
+APPROXIMATION ERRORS (log10):
+	a) mean error in the model equations: -3.444
+	b) max error in the model equations: -2.490
+	c) max error by equation:  [ -5.31983003  -5.56453778  -6.14458202 -14.81155248 -16.
+ -15.363445   -15.49208397 -16.          -2.48982523]
+tex row: -3.44 & -2.49 & 1496.60
+
+
+
+
+
+

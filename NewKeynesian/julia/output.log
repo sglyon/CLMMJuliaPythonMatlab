@@ -1,0 +1,274 @@
+Starting Dict{Symbol,Real}(:zlb=>false,:πstar=>1.0) and deg=1
+Solver time (in seconds): 0.22318387031555176
+Simulation time (in seconds): 0.058439016342163086
+Residuals time (in seconds): 0.3577749729156494
+total time (in seconds): 0.6393978595733643
+
+APPROXIMATION ERRORS (log10):
+	a) mean error in the model equations: -3.119
+	b) max error in the model equations: -1.733
+	c) max error by equation:[-1.733, -2.385, -2.387, -15.0, -Inf, -15.654, -15.654, -Inf, -Inf]
+
+
+
+
+
+
+Starting Dict{Symbol,Real}(:zlb=>false,:πstar=>1.0) and deg=2
+Solver time (in seconds): 0.5217280387878418
+Simulation time (in seconds): 0.08667588233947754
+Residuals time (in seconds): 0.40979719161987305
+total time (in seconds): 1.0182011127471924
+
+APPROXIMATION ERRORS (log10):
+	a) mean error in the model equations: -4.405
+	b) max error in the model equations: -2.772
+	c) max error by equation:[-2.772, -3.327, -3.37, -15.0, -Inf, -15.654, -15.654, -Inf, -Inf]
+
+
+
+
+
+
+Starting Dict{Symbol,Real}(:zlb=>false,:πstar=>1.0) and deg=3
+Solver time (in seconds): 3.054654121398926
+Simulation time (in seconds): 0.17446184158325195
+Residuals time (in seconds): 0.8431999683380127
+total time (in seconds): 4.07231593132019
+
+APPROXIMATION ERRORS (log10):
+	a) mean error in the model equations: -5.708
+	b) max error in the model equations: -3.544
+	c) max error by equation:[-3.544, -4.709, -4.227, -14.913, -Inf, -15.654, -15.654, -Inf, -Inf]
+
+
+
+
+
+
+Starting Dict{Symbol,Real}(:zlb=>false,:πstar=>1.0) and deg=4
+Solver time (in seconds): 22.347231149673462
+Simulation time (in seconds): 0.36298394203186035
+Residuals time (in seconds): 1.3983380794525146
+total time (in seconds): 24.108553171157837
+
+APPROXIMATION ERRORS (log10):
+	a) mean error in the model equations: -6.825
+	b) max error in the model equations: -4.89
+	c) max error by equation:[-4.926, -4.89, -5.511, -14.955, -Inf, -15.654, -15.654, -Inf, -Inf]
+
+
+
+
+
+
+Starting Dict{Symbol,Real}(:zlb=>false,:πstar=>1.0) and deg=5
+Solver time (in seconds): 318.44288396835327
+Simulation time (in seconds): 0.774744987487793
+Residuals time (in seconds): 2.682684898376465
+total time (in seconds): 321.90031385421753
+
+APPROXIMATION ERRORS (log10):
+	a) mean error in the model equations: -7.005
+	b) max error in the model equations: -5.158
+	c) max error by equation:[-5.158, -5.536, -5.9, -14.955, -Inf, -15.654, -15.654, -Inf, -Inf]
+
+
+
+
+
+
+Starting Dict{Symbol,Real}(:zlb=>true,:πstar=>1.0) and deg=1
+Solver time (in seconds): 0.22066998481750488
+Simulation time (in seconds): 0.0697319507598877
+Residuals time (in seconds): 0.3771960735321045
+total time (in seconds): 0.6675980091094971
+
+APPROXIMATION ERRORS (log10):
+	a) mean error in the model equations: -3.119
+	b) max error in the model equations: -1.733
+	c) max error by equation:[-1.733, -2.385, -2.387, -14.955, -Inf, -15.654, -15.654, -Inf, -Inf]
+
+
+
+
+
+
+Starting Dict{Symbol,Real}(:zlb=>true,:πstar=>1.0) and deg=2
+Solver time (in seconds): 0.48690199851989746
+Simulation time (in seconds): 0.08743619918823242
+Residuals time (in seconds): 0.3971419334411621
+total time (in seconds): 0.971480131149292
+
+APPROXIMATION ERRORS (log10):
+	a) mean error in the model equations: -4.399
+	b) max error in the model equations: -2.165
+	c) max error by equation:[-2.165, -2.452, -2.355, -15.0, -Inf, -15.654, -15.654, -Inf, -Inf]
+
+
+
+
+
+
+Starting Dict{Symbol,Real}(:zlb=>true,:πstar=>1.0) and deg=3
+Solver time (in seconds): 3.475759983062744
+Simulation time (in seconds): 0.16001391410827637
+Residuals time (in seconds): 0.7724311351776123
+total time (in seconds): 4.408205032348633
+
+APPROXIMATION ERRORS (log10):
+	a) mean error in the model equations: -5.605
+	b) max error in the model equations: -2.149
+	c) max error by equation:[-2.149, -2.438, -2.341, -15.0, -Inf, -15.654, -15.654, -Inf, -Inf]
+
+
+
+
+
+
+Starting Dict{Symbol,Real}(:zlb=>true,:πstar=>1.0) and deg=4
+Solver time (in seconds): 22.092818021774292
+Simulation time (in seconds): 0.39159297943115234
+Residuals time (in seconds): 1.4116079807281494
+total time (in seconds): 23.896018981933594
+
+APPROXIMATION ERRORS (log10):
+	a) mean error in the model equations: -6.17
+	b) max error in the model equations: -2.154
+	c) max error by equation:[-2.154, -2.436, -2.341, -15.0, -Inf, -15.654, -15.654, -Inf, -Inf]
+
+
+
+
+
+
+Starting Dict{Symbol,Real}(:zlb=>true,:πstar=>1.0) and deg=5
+Solver time (in seconds): 313.23674297332764
+Simulation time (in seconds): 0.8294479846954346
+Residuals time (in seconds): 2.4611849784851074
+total time (in seconds): 316.5273759365082
+
+APPROXIMATION ERRORS (log10):
+	a) mean error in the model equations: -6.203
+	b) max error in the model equations: -2.154
+	c) max error by equation:[-2.154, -2.437, -2.341, -14.955, -Inf, -15.654, -15.654, -Inf, -Inf]
+
+
+
+
+
+
+Starting Dict{Symbol,Real}(:zlb=>false,:πstar=>1.01495) and deg=1
+Solver time (in seconds): 0.4500749111175537
+Simulation time (in seconds): 0.06011199951171875
+Residuals time (in seconds): 0.33147716522216797
+total time (in seconds): 0.8416640758514404
+
+APPROXIMATION ERRORS (log10):
+	a) mean error in the model equations: -3.124
+	b) max error in the model equations: -1.938
+	c) max error by equation:[-1.938, -2.669, -2.69, -14.808, -Inf, -15.654, -15.654, -Inf, -2.49]
+
+
+
+
+
+
+Starting Dict{Symbol,Real}(:zlb=>false,:πstar=>1.01495) and deg=2
+Solver time (in seconds): 1.3506560325622559
+Simulation time (in seconds): 0.0958261489868164
+Residuals time (in seconds): 0.5555980205535889
+total time (in seconds): 2.002080202102661
+
+APPROXIMATION ERRORS (log10):
+	a) mean error in the model equations: -3.421
+	b) max error in the model equations: -2.49
+	c) max error by equation:[-3.129, -3.699, -3.747, -14.808, -Inf, -15.654, -15.654, -Inf, -2.49]
+
+
+
+
+
+
+Starting Dict{Symbol,Real}(:zlb=>false,:πstar=>1.01495) and deg=3
+Solver time (in seconds): 7.957073926925659
+Simulation time (in seconds): 0.16336798667907715
+Residuals time (in seconds): 0.833043098449707
+total time (in seconds): 8.953485012054443
+
+APPROXIMATION ERRORS (log10):
+	a) mean error in the model equations: -3.443
+	b) max error in the model equations: -2.49
+	c) max error by equation:[-4.406, -4.245, -4.842, -14.808, -Inf, -15.654, -15.654, -Inf, -2.49]
+
+
+
+
+
+
+Starting Dict{Symbol,Real}(:zlb=>false,:πstar=>1.01495) and deg=4
+Solver time (in seconds): 52.7851128578186
+Simulation time (in seconds): 0.3517308235168457
+Residuals time (in seconds): 1.2896268367767334
+total time (in seconds): 54.42647051811218
+
+APPROXIMATION ERRORS (log10):
+	a) mean error in the model equations: -3.444
+	b) max error in the model equations: -2.49
+	c) max error by equation:[-4.646, -5.2, -5.391, -14.808, -Inf, -15.654, -15.654, -Inf, -2.49]
+
+
+
+
+
+
+Starting Dict{Symbol,Real}(:zlb=>false,:πstar=>1.01495) and deg=5
+Solver time (in seconds): 756.0314700603485
+Simulation time (in seconds): 0.796759843826294
+Residuals time (in seconds): 2.4446442127227783
+total time (in seconds): 759.2728741168976
+
+APPROXIMATION ERRORS (log10):
+	a) mean error in the model equations: -3.444
+	b) max error in the model equations: -2.49
+	c) max error by equation:[-5.469, -5.568, -6.213, -14.841, -Inf, -15.654, -15.654, -Inf, -2.49]
+
+
+
+
+
+
+Julia Version 1.1.0
+Commit 80516ca202 (2019-01-21 21:24 UTC)
+Platform Info:
+  OS: macOS (x86_64-apple-darwin14.5.0)
+  uname: Darwin 18.6.0 Darwin Kernel Version 18.6.0: Thu Apr 25 23:16:27 PDT 2019; root:xnu-4903.261.4~2/RELEASE_X86_64 x86_64 i386
+  CPU: Intel(R) Core(TM) i7-6820HQ CPU @ 2.70GHz: 
+              speed         user         nice          sys         idle          irq
+       #1  2700 MHz     297890 s          0 s     138300 s    1591618 s          0 s
+       #2  2700 MHz      40007 s          0 s      16380 s    1971142 s          0 s
+       #3  2700 MHz     256719 s          0 s      91227 s    1679590 s          0 s
+       #4  2700 MHz      37420 s          0 s      12658 s    1977449 s          0 s
+       #5  2700 MHz     223160 s          0 s      66152 s    1738222 s          0 s
+       #6  2700 MHz      37684 s          0 s      11268 s    1978573 s          0 s
+       #7  2700 MHz     203114 s          0 s      49590 s    1774828 s          0 s
+       #8  2700 MHz      40143 s          0 s      10267 s    1977112 s          0 s
+       
+  Memory: 16.0 GB (500.765625 MB free)
+  Uptime: 545121.0 sec
+  Load Avg:  5.3671875  5.43359375  5.05712890625
+  WORD_SIZE: 64
+  LIBM: libopenlibm
+  LLVM: libLLVM-6.0.1 (ORCJIT, skylake)
+Environment:
+  JULIA_EDITOR = subl
+  TERM = xterm-256color
+  RUST_SRC_PATH = /Users/sglyon/.multirust/toolchains/nightly-x86_64-apple-darwin/lib/rustlib/src/rust/src
+  MATLAB_HOME = /Applications/MATLAB_R2016b.app
+  ATOM_REPOS_HOME = /Users/sglyon/src/atom
+  PATH = /Users/sglyon/google-cloud-sdk/bin:/Users/sglyon/anaconda3/bin:/Users/sglyon/src/julia/julia/usr/bin:/Users/sglyon/bin:/Users/sglyon/.cabal/bin:/Users/sglyon/.cargo/bin:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin:/Library/TeX/texbin:/usr/local/share/dotnet:/opt/X11/bin:~/.dotnet/tools:/usr/local/heroku/bin:/usr/local/sbin:/usr/texbin:/Users/sglyon/gocode/bin:/Users/sglyon/google-cloud-sdk/bin:/Users/sglyon/.multirust/toolchains/nightly/cargo/bin:/Users/sglyon/src/nim/Nim/bin:/Users/sglyon/anaconda3/bin:/Users/sglyon/src/julia/julia/usr/bin:/Users/sglyon/bin:/Users/sglyon/.cabal/bin:/Users/sglyon/.cargo/bin:/Users/sglyon/Downloads/cling_2017-02-20_mac1012/bin
+  XPC_FLAGS = 0x0
+  HOME = /Users/sglyon
+  GOPATH = /Users/sglyon/gocode
+  AIRFLOW_HOME = /Users/sglyon/work/valorum/energy/airflow
+  DYLD_LIBRARY_PATH = /opt/NAG/clmi623dgl/lib:/usr/local/Cellar/llvm/3.9.1/lib

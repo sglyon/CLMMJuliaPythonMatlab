@@ -1,0 +1,144 @@
+Working with params:
+Dict{Symbol,Any} with 3 entries:
+  :zlb => false
+  :πstar => 1.0
+  :σηL => 0.1821
+and grid type: sobol
+Solver time (in seconds): 2.637806669
+Simulation time (in seconds): 0.087673505
+Residuals time (in seconds): 0.389081376
+total time (in seconds): 3.1145615500000003
+
+APPROXIMATION ERRORS (log10):
+	a) mean error in the model equations: -3.864
+	b) sum of max error per equation: -1.785
+	c) max error in the model equations: -1.964
+	d) max error by equation:[-1.964, -2.586, -2.53, -14.875, -Inf, -15.654, -15.654, -Inf, -Inf]
+tex row
+-1.78 & -1.96 & 3.11
+
+
+
+
+
+
+Working with params:
+Dict{Symbol,Any} with 3 entries:
+  :zlb => false
+  :πstar => 1.0
+  :σηL => 0.1821
+and grid type: random
+Solver time (in seconds): 2.342000526
+Simulation time (in seconds): 0.088598566
+Residuals time (in seconds): 0.402519233
+total time (in seconds): 2.833118325
+
+APPROXIMATION ERRORS (log10):
+	a) mean error in the model equations: -3.855
+	b) sum of max error per equation: -1.85
+	c) max error in the model equations: -2.035
+	d) max error by equation:[-2.035, -2.659, -2.567, -14.875, -Inf, -15.654, -15.654, -Inf, -Inf]
+tex row
+-1.85 & -2.03 & 2.83
+
+
+
+
+
+
+Working with params:
+Dict{Symbol,Any} with 3 entries:
+  :zlb => false
+  :πstar => 1.0
+  :σηL => 0.4054
+and grid type: sobol
+Solver time (in seconds): 3.191649326
+Simulation time (in seconds): 0.088038645
+Residuals time (in seconds): 0.391257402
+total time (in seconds): 3.670945373
+
+APPROXIMATION ERRORS (log10):
+	a) mean error in the model equations: -3.195
+	b) sum of max error per equation: -1.022
+	c) max error in the model equations: -1.184
+	d) max error by equation:[-1.184, -1.851, -1.811, -14.75, -Inf, -15.353, -15.654, -Inf, -Inf]
+tex row
+-1.02 & -1.18 & 3.67
+
+
+
+
+
+
+Working with params:
+Dict{Symbol,Any} with 3 entries:
+  :zlb => false
+  :πstar => 1.0
+  :σηL => 0.4054
+and grid type: random
+Solver time (in seconds): 3.002652607
+Simulation time (in seconds): 0.087132103
+Residuals time (in seconds): 0.391264121
+total time (in seconds): 3.481048831
+
+APPROXIMATION ERRORS (log10):
+	a) mean error in the model equations: -3.209
+	b) sum of max error per equation: -0.953
+	c) max error in the model equations: -1.132
+	d) max error by equation:[-1.132, -1.667, -1.796, -14.75, -Inf, -15.353, -15.654, -Inf, -Inf]
+tex row
+-0.95 & -1.13 & 3.48
+
+
+
+
+
+
+Working with params:
+Dict{Symbol,Any} with 3 entries:
+  :zlb => true
+  :πstar => 1.0
+  :σηL => 0.1821
+and grid type: sobol
+Solver time (in seconds): 2.424150331
+Simulation time (in seconds): 0.087448542
+Residuals time (in seconds): 0.404140803
+total time (in seconds): 2.9157396760000003
+
+APPROXIMATION ERRORS (log10):
+	a) mean error in the model equations: -3.799
+	b) sum of max error per equation: -1.08
+	c) max error in the model equations: -1.407
+	d) max error by equation:[-1.407, -1.708, -1.61, -14.875, -Inf, -15.654, -15.654, -Inf, -Inf]
+tex row
+-1.08 & -1.41 & 2.92
+
+
+
+
+
+
+Working with params:
+Dict{Symbol,Any} with 3 entries:
+  :zlb => true
+  :πstar => 1.0
+  :σηL => 0.1821
+and grid type: random
+Solver time (in seconds): 2.364723627
+Simulation time (in seconds): 0.087120847
+Residuals time (in seconds): 0.391415264
+total time (in seconds): 2.843259738
+
+APPROXIMATION ERRORS (log10):
+	a) mean error in the model equations: -3.524
+	b) sum of max error per equation: -1.121
+	c) max error in the model equations: -1.449
+	d) max error by equation:[-1.449, -1.749, -1.65, -14.913, -Inf, -15.654, -15.654, -Inf, -Inf]
+tex row
+-1.12 & -1.45 & 2.84
+
+
+
+
+
+
