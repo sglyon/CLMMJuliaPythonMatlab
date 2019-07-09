@@ -61,7 +61,7 @@ from interpolation.complete_poly import (_complete_poly_impl_vec,
 import sobol_seq
 
 # get path to this folder
-DIR = os.path.dirname(os.path.abspath(""))
+DIR = os.path.abspath("")
 
 # set seed on random number generator to make results reproducible
 np.random.seed(42)
@@ -672,10 +672,22 @@ simulation, and accuracy checks, let's put things together and run the code!
 
 
 #%% cell
-def main(m=Model(), file=None, plot=True, verbose=False):
+def ensurefile(url, localpath):
+    if not os.path.isfile(localpath):
+        print("Downloading {} to {}".format(url, localpath))
+        with open(localpath, "wb") as f:
+            res = requests.get(url)
+            f.write(res.content)
+
+
+def main(m=None, file=None, plot=True, verbose=False):
     ensurefile("https://github.com/sglyon/CLMMJuliaPythonMatlab/raw/master/NewKeynesian/Sobol_grids.mat", "Sobol_grids.mat")
     ensurefile("https://github.com/sglyon/CLMMJuliaPythonMatlab/raw/master/NewKeynesian/epsi_test_NK.mat", "epsi_test_NK.mat")
     ensurefile("https://github.com/sglyon/CLMMJuliaPythonMatlab/raw/master/NewKeynesian/random_grids.mat", "random_grids.mat")
+
+    if m is None:
+        m = Model()
+
     if file is None:
         mprint = print
     else:
@@ -767,14 +779,6 @@ def build_paper_table():
                     # flush io streams so we can see output in real time
                     f_csv.flush()
                     f.flush()
-
-#%% cell
-def ensurefile(url, localpath):
-    if not os.path.isfile(localpath):
-        print("Downloading {} to {}".format(url, localpath))
-        with open(localpath, "wb") as f:
-            res = requests.get(url)
-            f.write(res.content)
 
 #%% cell
 if "table" in sys.argv:
